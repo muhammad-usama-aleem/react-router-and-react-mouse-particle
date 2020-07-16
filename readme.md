@@ -1,10 +1,21 @@
 ### Features <br/>
  <br/>
--- used [react-router](https://reactrouter.com/web/guides/quick-start) for faster routing <br/>
--- used [react-mouse-particle](https://codesandbox.io/s/react-mouse-particles-l45h1?file=/src/Album.jsx) for amazing mouse particles effects <br/>
+-- used ![react-router](https://reactrouter.com/web/guides/quick-start) for faster routing <br/>
+-- used ![react-mouse-particle](https://codesandbox.io/s/react-mouse-particles-l45h1?file=/src/Album.jsx) for amazing mouse particles effects <br/>
 
 <br/>
 
+### OUTPUT
+The final out put look like this <br/>
+just by clicking the button 
+# sign in <br/>
+or <br/>
+# sign up 
+we can navigate from sign in to sign up form without refresing the browser.<br/>
+
+![](1.png) <br/>
+<br/><br/>
+![](2.png)
 
 ### react-router <br/>
 
