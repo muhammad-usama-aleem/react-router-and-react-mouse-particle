@@ -6,13 +6,13 @@
 <br/>
 
 ### OUTPUT
-The final out put look like this <br/>
 just by clicking the button 
 # sign in <br/>
 or <br/>
 # sign up 
 we can navigate from sign in to sign up form without refresing the browser.<br/>
 
+The final out put look like this <br/>
 ![](1.png) <br/>
 <br/><br/>
 ![](2.png)
