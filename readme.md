@@ -1,11 +1,11 @@
-### Features <br/>
+# Features <br/>
  <br/>
 -- used [react-router](https://reactrouter.com/web/guides/quick-start) for faster routing <br/>
 -- used [react-mouse-particle](https://codesandbox.io/s/react-mouse-particles-l45h1?file=/src/Album.jsx) for amazing mouse particles effects <br/>
 
 <br/>
 
-### OUTPUT
+# OUTPUT
 just by clicking the button 
 # sign in <br/>
 or <br/>
