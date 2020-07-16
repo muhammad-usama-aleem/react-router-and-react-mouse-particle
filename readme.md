@@ -1,18 +1,16 @@
-the features of this project are<br/>
+### Features <br/>
+ <br/>
 -- used [react-router](https://reactrouter.com/web/guides/quick-start) for faster routing <br/>
--- used [react-mouse-particle](https://codesandbox.io/s/react-mouse-particles-l45h1?file=/src/Album.jsx) for amazing mouse <br/>
-import MouseParticles from 'react-mouse-particles'
+-- used [react-mouse-particle](https://codesandbox.io/s/react-mouse-particles-l45h1?file=/src/Album.jsx) for amazing mouse particles effects <br/>
 
-class Example extends Component {
-  render () {
-    return (
-      <>
-        <div>...</div>
-        <MouseParticles g={1} color="random" cull="col,image-wrapper"/>
-      </>
-    )
-  }
-}
+<br/>
+
+
+### react-router <br/>
+
+by using react router we can change the content on the site without refresing browser <br/>
+
+### react-mouse-particle <br/>
 ```
 
 ## Parameter Description
